@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Garcia Inc Restaurant,Hyderabad,11:00-23:00
+2,"Stanley, Murphy and Thompson Restaurant",Mumbai,10:00-23:00
+3,"Taylor, Anderson and Jenkins Restaurant",Delhi,10:00-23:00
+4,Rojas-Williams Restaurant,Chennai,11:00-22:00
+5,"Robertson, Rodriguez and Castro Restaurant",Mumbai,8:00-21:00
+6,Howe-Mercer Restaurant,Bangalore,11:00-21:00
+7,Mann LLC Restaurant,Delhi,8:00-22:00
+8,Norton Group Restaurant,Chennai,10:00-23:00
+9,Ramirez Group Restaurant,Hyderabad,9:00-21:00
+10,"Johnson, Salinas and Daniel Restaurant",Kolkata,11:00-21:00
+11,Powers Ltd Restaurant,Delhi,10:00-22:00
+12,Brown Ltd Restaurant,Delhi,10:00-22:00
+13,Shannon-Davis Restaurant,Chennai,10:00-23:00
+14,Tyler Inc Restaurant,Mumbai,11:00-22:00
+15,Martinez PLC Restaurant,Hyderabad,8:00-21:00
+16,Kennedy-Duran Restaurant,Bangalore,8:00-22:00
+17,Martin-Brown Restaurant,Mumbai,8:00-22:00
+18,Ramirez Inc Restaurant,Hyderabad,9:00-23:00
+19,Lara Group Restaurant,Mumbai,11:00-23:00
+20,Reed-Kelly Restaurant,Bangalore,10:00-22:00
+21,Howard and Sons Restaurant,Pune,11:00-22:00
+22,Thomas PLC Restaurant,Pune,10:00-21:00
+23,Huynh Ltd Restaurant,Kolkata,10:00-23:00
+24,Curtis Group Restaurant,Pune,8:00-22:00
+25,"Grimes, Frost and Young Restaurant",Hyderabad,10:00-22:00
+26,"Powers, Moore and Collins Restaurant",Delhi,10:00-21:00
+27,"Wagner, Turner and Bullock Restaurant",Pune,11:00-22:00
+28,Frey-Shah Restaurant,Mumbai,8:00-23:00
+29,Black and Sons Restaurant,Hyderabad,10:00-23:00
+30,Hayden-Flores Restaurant,Mumbai,11:00-23:00
+31,"Morales, Gamble and Rodgers Restaurant",Bangalore,10:00-23:00
+32,Garcia and Sons Restaurant,Hyderabad,10:00-21:00
+33,Patel-Cummings Restaurant,Bangalore,8:00-22:00
+34,"Parker, Kelley and Fernandez Restaurant",Chennai,9:00-22:00
+35,"Chase, Mitchell and Armstrong Restaurant",Mumbai,8:00-22:00
+36,"Davis, Hernandez and Clark Restaurant",Chennai,9:00-22:00
+37,Rocha and Sons Restaurant,Delhi,8:00-21:00
+38,Mueller LLC Restaurant,Mumbai,10:00-22:00
+39,"Flores, Duncan and Walters Restaurant",Hyderabad,11:00-23:00
+40,Coleman LLC Restaurant,Chennai,10:00-23:00
+41,"Jones, Ruiz and Barker Restaurant",Bangalore,8:00-23:00
+42,Reed LLC Restaurant,Hyderabad,9:00-21:00
+43,Martin PLC Restaurant,Mumbai,9:00-23:00
+44,Dean Inc Restaurant,Mumbai,8:00-21:00
+45,Flores-Osborn Restaurant,Chennai,10:00-23:00
+46,Bowman Ltd Restaurant,Kolkata,11:00-23:00
+47,Davis-Brown Restaurant,Hyderabad,11:00-23:00
+48,Williams-Simon Restaurant,Mumbai,8:00-22:00
+49,Romero-Taylor Restaurant,Pune,9:00-21:00
+50,Fernandez-Cross Restaurant,Bangalore,11:00-21:00
+51,"Manning, Maxwell and Ryan Restaurant",Bangalore,9:00-23:00
+52,Cox-Hodge Restaurant,Pune,9:00-23:00
+53,"Shah, Mayo and Christian Restaurant",Bangalore,11:00-22:00
+54,"Taylor, Mccarthy and Rice Restaurant",Chennai,11:00-22:00
+55,Dickson and Sons Restaurant,Kolkata,9:00-23:00
+56,Bautista PLC Restaurant,Delhi,8:00-21:00
+57,Atkinson PLC Restaurant,Mumbai,9:00-22:00
+58,Johnson and Sons Restaurant,Bangalore,11:00-23:00
+59,Wilson-Smith Restaurant,Hyderabad,11:00-23:00
+60,"Lutz, Collins and Montgomery Restaurant",Hyderabad,9:00-22:00
+61,Hopkins-Chapman Restaurant,Mumbai,9:00-21:00
+62,"Taylor, Turner and Mills Restaurant",Kolkata,11:00-22:00
+63,Tate-Smith Restaurant,Bangalore,8:00-22:00
+64,Williams-Ward Restaurant,Chennai,11:00-23:00
+65,"Blackburn, Glenn and Morgan Restaurant",Pune,9:00-23:00
+66,"Ford, Pierce and Moreno Restaurant",Hyderabad,8:00-22:00
+67,"Guerra, Jordan and Prince Restaurant",Kolkata,8:00-22:00
+68,"Adams, Brown and Vance Restaurant",Kolkata,11:00-23:00
+69,Collier-Cooper Restaurant,Kolkata,8:00-22:00
+70,Harrison-Steele Restaurant,Chennai,11:00-23:00
+71,Hubbard LLC Restaurant,Bangalore,10:00-23:00
+72,"Bennett, Wheeler and Foster Restaurant",Hyderabad,10:00-23:00
+73,"Hensley, May and Wilson Restaurant",Chennai,9:00-23:00
+74,"Riddle, Ayala and Bryant Restaurant",Mumbai,9:00-22:00
+75,Jackson Inc Restaurant,Kolkata,10:00-21:00
+76,Rodriguez PLC Restaurant,Mumbai,10:00-22:00
+77,Boyer Inc Restaurant,Chennai,10:00-21:00
+78,Turner and Sons Restaurant,Chennai,10:00-23:00
+79,"Rogers, Blake and Robinson Restaurant",Pune,10:00-21:00
+80,Davis Group Restaurant,Mumbai,11:00-23:00
+81,Clark-Smith Restaurant,Hyderabad,10:00-21:00
+82,Blake Inc Restaurant,Chennai,10:00-22:00
+83,Sanchez Group Restaurant,Hyderabad,9:00-22:00
+84,Johnson-Chandler Restaurant,Mumbai,10:00-21:00
+85,Castro-Zamora Restaurant,Pune,10:00-23:00
+86,Wong-Hartman Restaurant,Mumbai,11:00-23:00
+87,"Carrillo, Mcclain and Lee Restaurant",Mumbai,10:00-22:00
+88,"Patrick, Brady and Castro Restaurant",Delhi,11:00-23:00
+89,Callahan-Wilson Restaurant,Mumbai,8:00-21:00
+90,Brown-Fox Restaurant,Mumbai,9:00-21:00
+91,Hubbard Inc Restaurant,Delhi,11:00-21:00
+92,Thompson-Mays Restaurant,Chennai,11:00-23:00
+93,Wyatt-Jones Restaurant,Bangalore,11:00-21:00
+94,Zuniga Inc Restaurant,Pune,8:00-21:00
+95,"Green, Vargas and Baldwin Restaurant",Hyderabad,11:00-23:00
+96,"Harper, Nelson and Carter Restaurant",Hyderabad,11:00-23:00
+97,"Foley, Frederick and Parks Restaurant",Delhi,11:00-23:00
+98,Armstrong-Gallagher Restaurant,Kolkata,8:00-22:00
+99,"Hall, Mathis and Huber Restaurant",Delhi,10:00-23:00
+100,Mills-Moore Restaurant,Hyderabad,11:00-21:00
